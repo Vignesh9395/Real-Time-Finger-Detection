@@ -2,7 +2,7 @@
 
 Detect Fingers and Count in real time.
 
-![Alt text](relative/fpdetgit.png?raw=true "Output")
+![Alt text](fpdetgit.JPG?raw=true "Output")
 
 This Project is done utilizing the inbuilt methods in OpenCV and sklearn.
 
