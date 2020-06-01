@@ -1,2 +1,2 @@
-# Real-Time-Fingerprint-Detection
-Real Time Fingerprint Detection using OpenCV
+# Real-Time-Finger-Detection
+Real Time Finger Detection using OpenCV
