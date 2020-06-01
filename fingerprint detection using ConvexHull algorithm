@@ -179,7 +179,6 @@ if __name__ =="__main__":
             # now that we have the background, we can segment the hand.
 
             # segment the hand region
-            print('gray', gray)
             hand = segment(gray)
 
             # First check if we were able to actually detect a hand
