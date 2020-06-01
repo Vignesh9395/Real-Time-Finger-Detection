@@ -2,6 +2,8 @@
 
 Detect Fingers and Count in real time.
 
+![Alt text](relative/fpdetgit.JPG?raw=true "Output")
+
 This Project is done utilizing the inbuilt methods in OpenCV and sklearn.
 
 The initial frames from the video are read and accumulated till a threshold is reached for [Background Subtraction](https://docs.opencv.org/3.4/d1/dc5/tutorial_background_subtraction.html).
